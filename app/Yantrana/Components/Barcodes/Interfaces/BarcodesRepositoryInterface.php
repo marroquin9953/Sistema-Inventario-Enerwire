@@ -1,0 +1,12 @@
+<?php
+/*
+* BarcodesRepositoryInterface.php - Interface file
+*
+* This file is part of the Barcodes component.
+*-----------------------------------------------------------------------------*/
+
+namespace App\Yantrana\Components\Barcodes\Interfaces;
+
+interface BarcodesRepositoryInterface
+{
+}
