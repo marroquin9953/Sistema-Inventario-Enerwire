@@ -1,0 +1,21 @@
+# Carpetas y archivos de IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de índice de Google
+.idx/
+*.idx
+
+# Logs
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
